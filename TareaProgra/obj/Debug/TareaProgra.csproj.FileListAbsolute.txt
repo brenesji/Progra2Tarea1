@@ -1,0 +1,4 @@
+c:\users\jbrenesjimene\documents\visual studio 2015\Projects\TareaProgra\TareaProgra\bin\Debug\TareaProgra.exe
+C:\Users\jbrenesjimene\Documents\Visual Studio 2015\Projects\TareaProgra\TareaProgra\bin\Debug\TareaProgra.exe.config
+C:\Users\jbrenesjimene\Documents\Visual Studio 2015\Projects\TareaProgra\TareaProgra\obj\Debug\TareaProgra.exe
+C:\Users\jbrenesjimene\Documents\Visual Studio 2015\Projects\TareaProgra\TareaProgra\obj\Debug\TareaProgra.pdb
